@@ -12,3 +12,5 @@
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teyxos&layout=compact&text_color=daf7dc&bg_color=151515)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q06L58C)

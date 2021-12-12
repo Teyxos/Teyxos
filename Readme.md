@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teyxos&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" alt="teyxos's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=teyxos&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" alt="teyxos's Github Stats">
 
 </br>
 

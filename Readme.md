@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning PHP, React and Python, JS, Node, MongoDB 
+- 🔭 &nbsp; I’m currently learning React, Python, JS, Node, MongoDB  and many more
 - ✍️ &nbsp; Watching Anime.
 - 💻 &nbsp; Current Works: Alert Tag (Private)
 

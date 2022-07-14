@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React, Python, JS, Node, MongoDB  and many more
+- 🔭 &nbsp; I’m currently learning Svelte and BunJS
 - ✍️ &nbsp; Watching Anime.
 - 💻 &nbsp; Current Works: None
 
